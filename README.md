@@ -1,7 +1,7 @@
-#📊 Consumer Shopping Behavior Analytics
-###This project focuses on analyzing customer shopping patterns to help a retail business understand its consumers and make data-driven strategic decisions. The goal is to uncover purchase trends across demographics, product categories, spending habits, and customer segments to support better marketing, improved customer engagement, and increased revenue.
-###Using real-world customer shopping behavior data, this project demonstrates how raw data can be transformed into meaningful business insights through data processing, database querying, and interactive visualization.
-#The workflow includes:
+# 📊 Consumer Shopping Behavior Analytics
+### This project focuses on analyzing customer shopping patterns to help a retail business understand its consumers and make data-driven strategic decisions. The goal is to uncover purchase trends across demographics, product categories, spending habits, and customer segments to support better marketing, improved customer engagement, and increased revenue.
+### Using real-world customer shopping behavior data, this project demonstrates how raw data can be transformed into meaningful business insights through data processing, database querying, and interactive visualization.
+# The workflow includes:
 * Data preparation and transformation using Python
 * Structured querying and analysis using SQL
 * Interactive dashboard development using Power BI
