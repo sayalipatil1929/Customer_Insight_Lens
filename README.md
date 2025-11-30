@@ -18,7 +18,7 @@ This project focuses on analyzing customer shopping patterns to help a retail bu
 * Cleaned and standardized categorical fields (such as Gender, Category, Payment Method, Size, and Location) to ensure consistency in analysis.
 * Handled missing and duplicate records to improve data quality and ensure accurate insights.
 * Converted relevant columns to correct data types (numeric formatting for purchase amount and categorical encoding where needed).
-* Created additional derived fields to support analysis, such as customer segmentation and grouping for Power BI visuals.
+* Created additional derived fields to support analysis, such as customer segmentation and grouping for Power BI visuals.<br>
 🔗 You can view the complete data cleaning and transformation steps here:
 👉 **[Open Notebook](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/customer_shopping_behavior_data_prep.ipynb)**
 
@@ -28,6 +28,15 @@ This project focuses on analyzing customer shopping patterns to help a retail bu
 * Analyzed the effect of discounts, reviews, and shipping types on purchase amounts using aggregation and conditional filtering.
 * Used window functions and ranking to find top-performing products across different categories.
 * Applied customer segmentation logic to classify users into New, Returning, and Loyal groups.
-* Generated insights to support visualization and decision-making by summarizing trends such as product demand and revenue contribution by age groups.
+* Generated insights to support visualization and decision-making by summarizing trends such as product demand and revenue contribution by age groups.<br>
 🔗 View Full SQL Script:
 👉 **[Open SQL script](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/customer_behavior_an.sql)**
+
+--- 
+# 📊 4.Power BI Interactive Dashboard Insights
+* The dashboard provides a high-level overview of customer activity, including total customers, orders, average rating and total revenue.
+* A donut chart highlights the comparison between subscribed and non-subscribed customers, showing clear engagement patterns.
+* Visuals such as seasonal and category revenue charts help identify high-performing product groups and peak purchasing periods.
+* Demographic insights like age-wise spending and gender filters allow users to explore how different customer segments contribute to revenue.
+* Filters for category, payment method, location, and gender enable stakeholders to interact with the data and uncover customized insights for decision-making.
+ ![Dashboard](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/dashboard.png)
