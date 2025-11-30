@@ -19,5 +19,15 @@ This project focuses on analyzing customer shopping patterns to help a retail bu
 * Handled missing and duplicate records to improve data quality and ensure accurate insights.
 * Converted relevant columns to correct data types (numeric formatting for purchase amount and categorical encoding where needed).
 * Created additional derived fields to support analysis, such as customer segmentation and grouping for Power BI visuals.
-- You can view the complete data cleaning and transformation steps here:
+🔗 You can view the complete data cleaning and transformation steps here:
 👉 **[Open Notebook](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/customer_shopping_behavior_data_prep.ipynb)**
+
+---
+# 🧠 3.Data Analysis in SQL
+* Identified key business insights such as revenue distribution by customer demographics, spending behavior, and subscription impact.
+* Analyzed the effect of discounts, reviews, and shipping types on purchase amounts using aggregation and conditional filtering.
+* Used window functions and ranking to find top-performing products across different categories.
+* Applied customer segmentation logic to classify users into New, Returning, and Loyal groups.
+* Generated insights to support visualization and decision-making by summarizing trends such as product demand and revenue contribution by age groups.
+🔗 View Full SQL Script:
+👉 **[Open SQL script](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/customer_behavior_an.sql)**
