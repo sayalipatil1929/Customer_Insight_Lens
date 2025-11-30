@@ -39,4 +39,5 @@ This project focuses on analyzing customer shopping patterns to help a retail bu
 * Visuals such as seasonal and category revenue charts help identify high-performing product groups and peak purchasing periods.
 * Demographic insights like age-wise spending and gender filters allow users to explore how different customer segments contribute to revenue.
 * Filters for category, payment method, location, and gender enable stakeholders to interact with the data and uncover customized insights for decision-making.
+  
  ![Dashboard](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/dashboard.png)
